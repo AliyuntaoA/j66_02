@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Application Servers</id>
+          </State>
+          <State>
+            <id>CDI (Contexts and Dependency Injection)</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Faces Model</id>
+          </State>
+          <State>
+            <id>JSP检查</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+          <State>
+            <id>Java EE 问题</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>WebSocket</id>
+          </State>
+          <State>
+            <id>可移植性问题Java</id>
+          </State>
+          <State>
+            <id>性能问题Java</id>
+          </State>
+          <State>
+            <id>资源管理问题Java</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://www.springframework.org/schema/aop " location="D:/spring/spring-aop-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/beans " location="D:/spring/spring-beans-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/context " location="D:/spring/spring-context-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc " location="D:/spring/spring-mvc-4.2.xsd" />
+    <resource url="http://www.springframework.org/schema/tx " location="D:/spring/spring-tx-4.2.xsd" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
